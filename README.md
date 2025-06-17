@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about learning and applying data an
 
 ### 📌 About Me
 - 📊 Aspiring Data Analyst  
-- 📚 Currently pursuing the **Data Analyst Bootcamp from Codebasics**   
+- 📚 Currently pursuing the **Data Analyst Bootcamp 4.O from Codebasics**   
 
 ---
 
